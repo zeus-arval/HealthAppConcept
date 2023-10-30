@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B3B3A01E-25F5-4568-B444-1252B4E383E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD7EAFB1-37C6-4A49-8A68-184AB89EAB13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthAppConcept/Common/LoadingBar/LoadingCircleBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "timerTick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51A4CE61-6044-44BC-8D9F-0A4B847B9E0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthAppConcept/Common/LoadingBar/LoadingCircleBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "timerTick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "295E7B23-8191-462E-A24E-CB7C7541BBAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthAppConcept/Common/LoadingBar/LoadingCircleBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "timerTick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5C01F29-2B96-4E28-8B69-B77BDDAE642E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthAppConcept/Common/LoadingBar/LoadingCircleBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "LoadingCircleBar"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68BB71D4-070C-4FF0-A32E-D871B03E6A65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthAppConcept/Common/LoadingBar/LoadingCircleBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "timerTick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
